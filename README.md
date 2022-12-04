@@ -20,6 +20,9 @@ To run the tests:
 npm test
 ```
 
+# Postman Collection
+[Download Postman Collection](https://api.postman.com/collections/16998694-927476d5-8bbd-455a-b687-067d57e753b7?access_key=PMAT-01GKFABWBCV3BMYGM6Z6Q1MGEM)
+
 # Node Test - Instructions
 
 You are given two json files:
